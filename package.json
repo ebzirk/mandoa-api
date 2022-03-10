@@ -1,11 +1,12 @@
 {
   "name": "mandoa-api",
   "version": "1.0.0",
-  "description": "My mandoa language API for projects",
+  "description": "My API for the Mando'a language, that the mandalorian's in Star Wars use.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ebzirk/mandoa-api.git"
