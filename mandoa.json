@@ -1,0 +1,232 @@
+{
+    "words": [
+    {
+        "id" : 0,
+        "word" : "Cyar'ika",
+        "meaning": [
+          "darling",
+          "sweetheart"
+        ],
+        "hint": "Name you call your SO",
+        "pronunciation": "sha-ree-kah"
+      },
+    {
+        "id" : 1,
+        "word" : "Darasuum",
+        "meaning": [
+        "eternity"
+        ],
+        "hint": "Forever",
+        "pronunciation" : "dah-RAH-soom"
+    },
+    {
+      "word" : "Ba'gedet'ye",
+      "meaning" : [
+        "You're Welcome"
+      ],
+      "hint" : "Response to 'Thank you'",
+      "pronunciation" : "BAH-geh-DET-yeh"
+    },
+    {
+      "word" : "Wayii",
+      "meaning" : [
+        "Good grief"
+      ],
+      "hint" :"Exclamation of emotion",
+      "pronunciation": "why-EE"
+    },
+    {
+      "word" : "Vod",
+      "meaning" : [
+        "brother",
+        "sister",
+        "comrade"
+      ],
+      "hint" :"sibling or friend",
+      "pronunciation": "vohd"
+    },
+    {
+      "word" : "Iviin",
+      "meaning" : [
+        "speed",
+        "velocity"
+      ],
+      "hint" :"Lightning McQueen",
+      "pronunciation": "ee-VEEN"
+    },
+    {
+      "word" : "Mesh'la",
+      "meaning" : [
+        "beautiful"
+      ],
+      "hint" :"The best thing to call a woman",
+      "pronunciation": "MAYSH-lah"
+    },
+    {
+      "word" : "Kyr'am",
+      "meaning" : [
+        "death"
+      ],
+      "hint" :"It happens to everyone, sooner or later",
+      "pronunciation": "kee-RAHM"
+    },
+    {
+      "word" : "Pirur",
+      "meaning" : [
+        "drink"
+      ],
+      "hint" :"You do it with water, soda, and beer",
+      "pronunciation": "peer-OOR"
+    },
+    {
+      "word" : "Kai'tome",
+      "meaning" : [
+        "food"
+      ],
+      "hint" :"Stuff you eat",
+      "pronunciation": "kai-TOHM-ay"
+    },
+    {
+      "word" : "Vor'e",
+      "meaning" : [
+        "thanks"
+      ],
+      "hint" :"Comes before 'You're welcome'",
+      "pronunciation": "VOHR-ay"
+    },
+    {
+      "word" : "Oya",
+      "meaning" : [
+        "cheers",
+        "hoorah",
+        "go you",
+        "stay alive"
+      ],
+      "hint" :"Positive and triumphant thing to say",
+      "pronunciation": "OY-ah"
+    },
+    {
+      "word": "Kar'ta",
+      "meaning": [
+        "heart"
+      ],
+      "hint" : "It beats in your chest",
+      "pronunciation" : "kah-ROH-ta"
+    },
+    {
+      "word": "Lovik",
+      "meaning": [
+        "knees",
+        "knee"
+      ],
+      "hint" : "Middle part of the leg",
+      "pronunciation" : "LOH-veek"
+    },
+    {
+      "word": "Gedet'ye",
+      "meaning": [
+        "please"
+      ],
+      "hint" : "With sugar on top?",
+      "pronunciation" : "Geh-DET-yay"
+    },
+    {
+      "word": "Sharal",
+      "meaning": [
+        "Lazy"
+      ],
+      "hint" : "An easy word for not wanting to do anything",
+      "pronunciation" : "SHAH-ral"
+    },
+    {
+      "word": "Kote",
+      "meaning": [
+        "glory"
+      ],
+      "hint" : "Majesty",
+      "pronunciation" : "KOH-day"
+    },
+    {
+      "word": "Ge'tal",
+      "meaning": [
+        "red"
+      ],
+      "hint" : "color of blood",
+      "pronunciation" : "ge-TAHL"
+    },
+    {
+      "word": "Shab",
+      "meaning": [
+        "fuck"
+      ],
+      "hint" : "F bomb",
+      "pronunciation" : "SH-ab"
+    },
+    {
+      "word": "Riduur",
+      "meaning": [
+        "spouse",
+        "partner",
+        "husband",
+        "wife"
+      ],
+      "hint" : "Significant other",
+      "pronunciation" : "REE-door"
+    },
+    {
+      "word": "Su'cuy",
+      "meaning": [
+        "hi"
+      ],
+      "hint" : "Simple greeting",
+      "pronunciation" : "Soo-COO-ee"
+    },{
+      "word": "Buir",
+      "meaning": [
+        "mother",
+        "father"
+      ],
+      "hint" : "Parental unit",
+      "pronunciation" : "boo-EER"
+    },{
+      "word": "Aruetii",
+      "meaning": [
+        "traitor",
+        "foreigner",
+        "outsider"
+      ],
+      "hint" : "People not in your family",
+      "pronunciation" : "ah-roo-AY-tee"
+    },{
+      "word": "Beroya",
+      "meaning": [
+        "bounty hunter"
+      ],
+      "hint" : "What is Boba Fett?",
+      "pronunciation" : "bair-OY-ah"
+    },{
+      "word": "Besbe",
+      "meaning": [
+        "Kit (slang)"
+      ],
+      "hint" : "Slang for armor",
+      "pronunciation" : "BES-bay"
+    },
+    {
+      "word": "Beskar'ad",
+      "meaning": [
+        "droid"
+      ],
+      "hint" : "They say 'roger roger', and you don't look for them.",
+      "pronunciation" : ""
+    },
+    {
+      "word": "Pare",
+      "meaning": [
+        "wait"
+      ],
+      "hint" : "Requires patience",
+      "pronunciation" : "PAH-ray"
+    }
+  ]
+  }
