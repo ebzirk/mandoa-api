@@ -1,7 +1,7 @@
 {
     "words" : [
     {
-        "id": 0,
+        "id": 1,
         "word" : "Cyar'ika",
         "meaning": [
           "darling",
@@ -11,7 +11,7 @@
         "pronunciation": "sha-ree-kah"
       },
     {
-        "id": 1,
+        "id": 2,
       "word" : "Darasuum",
       "meaning": [
         "eternity"
@@ -20,7 +20,7 @@
       "pronunciation" : "dah-RAH-soom"
     },
     {
-        "id": 2,
+        "id": 3,
       "word" : "Ba'gedet'ye",
       "meaning" : [
         "you're Welcome"
@@ -29,7 +29,7 @@
       "pronunciation" : "BAH-geh-DET-yeh"
     },
     {
-        "id": 3,
+        "id": 4,
       "word" : "Wayii",
       "meaning" : [
         "good grief"
@@ -38,7 +38,7 @@
       "pronunciation": "why-EE"
     },
     {
-        "id": 4,
+        "id": 5,
       "word" : "Vod",
       "meaning" : [
         "brother",
@@ -49,7 +49,7 @@
       "pronunciation": "vohd"
     },
     {
-        "id": 5,
+        "id": 6,
       "word" : "Iviin",
       "meaning" : [
         "speed",
@@ -59,7 +59,7 @@
       "pronunciation": "ee-VEEN"
     },
     {
-        "id": 6,
+        "id": 7,
       "word" : "Mesh'la",
       "meaning" : [
         "beautiful"
@@ -68,7 +68,7 @@
       "pronunciation": "MAYSH-lah"
     },
     {
-        "id": 7,
+        "id": 8,
       "word" : "Kyr'am",
       "meaning" : [
         "death"
@@ -77,7 +77,7 @@
       "pronunciation": "kee-RAHM"
     },
     {
-        "id": 8,
+        "id": 9,
       "word" : "Pirur",
       "meaning" : [
         "drink"
@@ -86,7 +86,7 @@
       "pronunciation": "peer-OOR"
     },
     {
-        "id": 9,
+        "id": 10,
       "word" : "Kai'tome",
       "meaning" : [
         "food"
@@ -95,7 +95,7 @@
       "pronunciation": "kai-TOHM-ay"
     },
     {
-        "id": 10,
+        "id": 11,
       "word" : "Vor'e",
       "meaning" : [
         "thanks"
@@ -103,7 +103,7 @@
       "hint" :"Comes before 'You're welcome'",
       "pronunciation": "VOHR-ay"
     },
-    {"id": 11,
+    {"id": 12,
       "word" : "Oya",
       "meaning" : [
         "cheers",
@@ -114,7 +114,7 @@
       "hint" :"Positive and triumphant thing to say",
       "pronunciation": "OY-ah"
     },
-    {"id": 12,
+    {"id": 13,
       "word": "Kar'ta",
       "meaning": [
         "heart"
@@ -122,7 +122,7 @@
       "hint" : "It beats in your chest",
       "pronunciation" : "kah-ROH-ta"
     },
-    {"id": 13,
+    {"id": 14,
       "word": "Lovik",
       "meaning": [
         "knees",
@@ -131,7 +131,7 @@
       "hint" : "Middle part of the leg",
       "pronunciation" : "LOH-veek"
     },
-    {"id": 14,
+    {"id": 15,
       "word": "Gedet'ye",
       "meaning": [
         "please"
@@ -139,7 +139,7 @@
       "hint" : "With sugar on top?",
       "pronunciation" : "Geh-DET-yay"
     },
-    {"id": 15,
+    {"id": 16,
       "word": "Sharal",
       "meaning": [
         "lazy"
@@ -147,7 +147,7 @@
       "hint" : "An easy word for not wanting to do anything",
       "pronunciation" : "SHAH-ral"
     },
-    {"id": 16,
+    {"id": 17,
       "word": "Kote",
       "meaning": [
         "glory"
@@ -155,7 +155,7 @@
       "hint" : "Majesty",
       "pronunciation" : "KOH-day"
     },
-    {"id": 17,
+    {"id": 18,
       "word": "Ge'tal",
       "meaning": [
         "red"
@@ -163,7 +163,7 @@
       "hint" : "color of blood",
       "pronunciation" : "ge-TAHL"
     },
-    {"id": 18,
+    {"id": 19,
       "word": "Shab",
       "meaning": [
         "fuck"
@@ -171,7 +171,7 @@
       "hint" : "F bomb",
       "pronunciation" : "SH-ab"
     },
-    {"id": 19,
+    {"id": 20,
       "word": "Riduur",
       "meaning": [
         "spouse",
@@ -182,7 +182,7 @@
       "hint" : "Significant other",
       "pronunciation" : "REE-door"
     },
-    {"id": 20,
+    {"id": 21,
       "word": "Su'cuy",
       "meaning": [
         "hi"
@@ -190,7 +190,7 @@
       "hint" : "Simple greeting",
       "pronunciation" : "Soo-COO-ee"
     },{
-        "id": 21,
+        "id": 22,
       "word": "Buir",
       "meaning": [
         "mother",
@@ -199,7 +199,7 @@
       "hint" : "Parental unit",
       "pronunciation" : "boo-EER"
     },{
-        "id": 22,
+      "id": 23,
       "word": "Aruetii",
       "meaning": [
         "traitor",
@@ -209,7 +209,7 @@
       "hint" : "People not in your family",
       "pronunciation" : "ah-roo-AY-tee"
     },{
-        "id": 23,
+        "id": 24,
       "word": "Beroya",
       "meaning": [
         "bounty hunter"
@@ -217,7 +217,7 @@
       "hint" : "What is Boba Fett?",
       "pronunciation" : "bair-OY-ah"
     },{
-        "id": 24,
+        "id": 25,
       "word": "Besbe",
       "meaning": [
         "kit"
@@ -226,7 +226,7 @@
       "pronunciation" : "BES-bay"
     },
     {
-        "id": 25,
+        "id": 26,
       "word": "Beskar'ad",
       "meaning": [
         "droid"
@@ -235,13 +235,221 @@
       "pronunciation" : ""
     },
     {
-        "id": 26,
+        "id": 27,
       "word": "Pare",
       "meaning": [
         "wait"
       ],
       "hint" : "Requires patience",
       "pronunciation" : "PAH-ray"
+    },
+    {
+      "id": 28,
+      "word": "A",
+      "meaning": [
+        "but"
+      ],
+      "hint": "Rear with only one T",
+      "pronunciation": "ah"
+    },
+    {
+      "id": 29,
+      "word": "Al",
+      "meaning": [
+        "but"
+      ],
+      "hint": "Rear with only one T",
+      "pronunciation": "ahl"
+    },
+    {
+      "id": 30,
+      "word": "A'den",
+      "meaning": [
+        "wrath",
+        "rage"
+      ],
+      "hint": "Anger, but worse",
+      "pronunciation": "AH-dehn"
+    },
+    {
+      "id": 31,
+      "word": "Aalar",
+      "meaning": [
+        "to feel"
+      ],
+      "hint": "To use one of the senses. Typically you use your hands.",
+      "pronunciation": "AH-lahr"
+    },
+    {
+      "id": 32,
+      "word": "Aaray",
+      "meaning": [
+        "pain"
+      ],
+      "hint": "What you experience when you're hurt",
+      "pronunciation": "AH-rey"
+    },
+    {
+      "id": 33,
+      "word": "Aay'han",
+      "meaning": [
+        "bittersweet perfect moment of mourning and joy",
+        "Remembering and celebrating",
+        "celebrate"
+      ],
+      "hint": "Time to PAR-TAY",
+      "pronunciation": "EY-yeh'-hahn"
+    },
+    {
+      "id": 34,
+      "word": "Abesh",
+      "meaning": [
+        "east"
+      ],
+      "hint": "Direction opposite of west",
+      "pronunciation": "AH-behsh"
+    },
+    {
+      "id": 35,
+      "word": "Abiik",
+      "meaning": [
+        "air"
+      ],
+      "hint": "Element you breathe",
+      "pronunciation": "AH-beek"
+    },
+    {
+      "id": 36,
+      "word": "Acyk",
+      "meaning": [
+        "between"
+      ],
+      "hint": "You need to read _____ the lines.",
+      "pronunciation": "AH-seek"
+    },
+    {
+      "id": 37,
+      "word": "Ad",
+      "meaning": [
+        "child",
+        "offspring",
+        "son",
+        "daughter"
+      ],
+      "hint": "Younger person of the same blood",
+      "pronunciation": "ahd"
+    },
+    {
+      
+      "id": 38,
+      "word": "Ad'eta",
+      "meaning": [
+        "twenty"
+      ],
+      "hint": "19, ... , 21",
+      "pronunciation": "ahd-'EY-tah"
+    },
+    {
+      "id": 39,
+      "word": "Ad'ika",
+      "meaning": [
+        "little one",
+        "son",
+        "daughter",
+        "lad",
+        "guy",
+        "lassy",
+        "gal"
+      ],
+      "hint": "",
+      "pronunciation": "ahd-'EE-kah"
+    },
+    {
+      "id": 40,
+      "word": "Adade",
+      "meaning": [
+        "personnel"
+      ],
+      "hint": "",
+      "pronunciation": "ah-DAH-dey"
+    },
+    {
+      
+      "id": 41,
+      "word": "Adate",
+      "meaning": [
+        "people",
+        "persons"
+      ],
+      "hint": "A group of humanoid beings",
+      "pronunciation": "ah-DAH-tey"
+    },
+    {
+      "id": 42,
+      "word": "Adenn",
+      "meaning": [
+        "merciless"
+      ],
+      "hint": "",
+      "pronunciation": "ah-DEHN"
+    },
+    {
+      
+      "id": 43,
+      "word": "Adiik",
+      "meaning": [
+        "child aged 3 to 13"
+      ],
+      "hint": "",
+      "pronunciation": "AH-deek"
+    },
+    {
+      "id": 44,
+      "word": "Adol",
+      "meaning": [
+        "through"
+      ],
+      "hint": "",
+      "pronunciation": "AH-dol"
+    },
+    {
+      "id": 45,
+      "word": "Agol",
+      "meaning": [
+        "Living flesh",
+        "muscle",
+        "meat",
+        "muscle"
+      ],
+      "hint": "Mmm... Steak...",
+      "pronunciation": "AH-gol"
+    },
+    {
+      "id": 46,
+      "word": "Aikiyc",
+      "meaning": [
+        "Desperate"
+      ],
+      "hint": "hopeless",
+      "pronunciation": "ai-KEESH"
+    },{
+      "id": 47,
+      "word":"Aka",
+      "meaning":["mission"],
+      "hint": "You can be assigned on them. Similar to a quest.",
+      "pronunciation":"AH-kah"
+    },{
+      "id": 48,
+      "word":"akaan",
+      "meaning":["war"],
+      "hint":"You declare it on your enemies.",
+      "pronunciation":"ah-KAHN"
+    },{
+      "id": 49,
+      "word":"akaan'ade",
+      "meaning":["army"],
+      "hint": "Large of people that will go to war.",
+      "pronunciation":"ah-kahn-'AH-dey"
     }
   ]
-  }
+}
